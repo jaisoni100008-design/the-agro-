@@ -1,0 +1,21 @@
+Crop_Name,Season,Duration_Days,Water_Req_mm,Temp_Opt_C,Drought_Tolerance,Soil_Type
+Paddy (Rice),Kharif,120,1200,22-32,Low,Clay / Clay Loam
+Maize (Corn),Kharif,100,600,18-27,Medium,Well-drained Loam
+Soybean,Kharif,95,500,20-30,Medium,Clay Loam
+Pigeonpea (Arhar/Tur),Kharif,170,450,20-35,High,Deep Loam / Sandy Clay
+Blackgram (Urad),Kharif,80,400,25-35,High,Loam / Heavy Clay
+Greengram (Moong),Kharif,70,350,25-35,High,Well-drained Loam
+Groundnut,Kharif,110,500,22-30,Medium-High,Sandy Loam
+Kodo Millet,Kharif,100,300,25-34,Very High,Shallow Gravelly / Loam
+Little Millet (Kutki),Kharif,85,250,24-32,Very High,Marginal Poor Soils
+Wheat,Rabi,115,450,15-24,Medium,Clay Loam / Heavy Loam
+Chickpea (Gram),Rabi,105,300,15-25,High,Well-drained Black Soils
+Lathyrus (Teevra),Rabi,110,250,10-25,Very High,Heavy Clay / Rice Fallows
+Mustard / Rapeseed,Rabi,100,350,15-25,Medium-High,Loam to Heavy Clay
+Lentil (Masoor),Rabi,100,280,18-30,High,Clay Loam
+Field Pea,Rabi,90,320,13-20,Medium,Rich Well-drained Loam
+Sunflower,Rabi,95,500,20-28,Medium-High,Deep Black Soil
+Summer Moong,Zaid,65,300,27-38,Medium,Irrigated Loam
+Watermelon,Zaid,85,400,24-30,Medium,Sandy Loam
+Sugarcane,Annual,360,1800,20-35,Low,Deep Well-drained Clay
+Sesame (Til),Kharif/Zaid,85,300,25-35,High,Well-drained Light Loam

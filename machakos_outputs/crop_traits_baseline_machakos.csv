@@ -1,0 +1,21 @@
+Crop_Name,Season,Duration_Days,Water_Req_mm,Temp_Opt_C,Drought_Tolerance,Soil_Type
+Maize (Corn),Long/Short Rains,110,550,18-28,Medium,Well-drained Loam / Clay Loam
+Sorghum,Long/Short Rains,115,400,22-34,High,Loam to Sandy Clay
+Pearl Millet,Short Rains,85,300,25-35,Very High,Light Sandy Loam
+Pigeonpea (Mbaazi),Long Rains,180,450,20-35,Very High,Deep Sandy Clay / Loam
+Cowpea (Kunde),Short Rains,75,350,22-35,High,Sandy Loam to Clay
+Green Gram (Ndengu),Short Rains,70,320,25-35,Very High,Well-drained Loam
+Common Beans (Maharagwe),Long Rains,90,450,18-24,Medium,Rich Clay Loam
+Cassava,Perennial/Annual,300,600,25-32,Very High,Light Sandy Loam
+Sweet Potato,Long/Short Rains,120,500,20-30,High,Friable Sandy Loam
+Groundnut (Njugu),Long Rains,110,500,22-30,Medium-High,Sandy Loam
+Sesame (Simsim),Short Rains,90,350,25-35,High,Light Well-drained Loam
+Cotton,Long Rains,160,700,22-32,High,Deep Black Clay / Loam
+Sunflower,Short Rains,100,500,20-28,Medium-High,Deep Loam
+Finger Millet (Wimbi),Long Rains,100,400,20-30,High,Free-draining Loam
+Chickpea,Short Rains,105,300,15-25,High,Heavy Clay / Vertisols
+Watermelon,Irrigated/Short Rains,85,400,24-32,Medium,Well-drained Sandy Loam
+Tomato,Irrigated,100,600,18-27,Low,Deep Fertile Loam
+Onion,Irrigated,120,500,15-25,Low,Friable Sandy Loam
+Cabbage,Irrigated/Long Rains,90,500,15-20,Low,Heavy Clay Loam
+French Beans,Irrigated,60,350,18-25,Low,Well-drained Loam
