@@ -1,2 +1,9 @@
     "We didn't just throw satellite data at a map. We built a biophysical engine. We use NASA POWER and CHIRPS to calculate the atmospheric thirst (ET0ET_0ET0​) and effective rainfall. We use SoilGrids to define the soil's water-holding capacity. We run a daily water balance and GDD accumulation to see if the crop survives. And we use NDVI to validate if the soil is actually degrading over time."
 Evapotranspiration (ET₀) aur aapke paas maujood weather ya NDVI data kaafi nahi hai. Aapke current data se hum sirf mausam ka mizaj, water balance (rainfall vs ET₀), aur pichli fasal ki health (NDVI) samajh sakte hain, lekin sahi decision lene ke liye kuch aur zaroori data chahiye hoga: sabse pehle pichli fasal ki history (kaunsi family ki crop thi aur kaunsi herbicides use hui thi) taaki mitti mein pests aur diseases repeat na hon; doosra, mitti ki jaanch (Soil Health) jaise soil type (mitti retili hai ya chikni), pH level, aur NPK nutrients; teesra, sinchai ki suvidha (Irrigation availability) yaani baarish kam hone par paani dene ka source kya hai; aur aakhir mein market aur budget factors jaise mandi ke daam (MSP), beej ki availability, aur agle season tak kitne din ka time bacha hai. Jab aap weather data ke saath in sabhi cheezon ko milayenge, tabhi ek profitable aur mitti ke liye healthy crop choose kar payenge.
+
+The Fuel (Your CSV): Daily Temp, Rain, Wind, Humidity, Solar, NDVI. (Tells you what the weather is doing).
+The Ground (Soil Constants): FC, WP, SOC, Bulk Density. (Tells you what the field can hold).
+The Rules (Crop JSON): KcK_cKc​, GDD, Family, Root Depth. (Tells you what the plants need).
+The Goal (Farmer Inputs): Risk, Irrigation, Profit. (Tells you what the human wants).
+The Engine (Python Code): Calculates ET0→ETc→ET_0 \rightarrow ET_c \rightarrowET0​→ETc​→ Water Bucket →\rightarrow→ GDD →\rightarrow→ 4 Checks.
+The Output: A ranked list of crop rotations (e.g., "1. Sorghum-Cowpea: 88/100") with clear, data-backed reasons why.
