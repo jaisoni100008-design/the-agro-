@@ -7,3 +7,7 @@ The Rules (Crop JSON): KcK_cKc​, GDD, Family, Root Depth. (Tells you what the 
 The Goal (Farmer Inputs): Risk, Irrigation, Profit. (Tells you what the human wants).
 The Engine (Python Code): Calculates ET0→ETc→ET_0 \rightarrow ET_c \rightarrowET0​→ETc​→ Water Bucket →\rightarrow→ GDD →\rightarrow→ 4 Checks.
 The Output: A ranked list of crop rotations (e.g., "1. Sorghum-Cowpea: 88/100") with clear, data-backed reasons why.
+
+
+https://docs.google.com/document/d/1tU8XGvggvo_f0aF794eydW-ckVPwlrnb5IDNeIHwUm4/edit?usp=sharing
+
