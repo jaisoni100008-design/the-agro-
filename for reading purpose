@@ -1,0 +1,2 @@
+    "We didn't just throw satellite data at a map. We built a biophysical engine. We use NASA POWER and CHIRPS to calculate the atmospheric thirst (ET0ET_0ET0​) and effective rainfall. We use SoilGrids to define the soil's water-holding capacity. We run a daily water balance and GDD accumulation to see if the crop survives. And we use NDVI to validate if the soil is actually degrading over time."
+
